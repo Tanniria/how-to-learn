@@ -3,7 +3,7 @@
   max-width: 1600px;
   margin: 0 auto;
   padding: 0;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
 }
 
 .header {
@@ -14,6 +14,7 @@
   display: flex;
   position: relative;
   background: #f2f2f2;
+  color: #000;
 }
 
 .logo__place_header {
@@ -31,6 +32,7 @@
   position: absolute;
   left: 64px;
   align-self: center;
+  color: #000;
 }
 
 .header__subtitle {
@@ -42,6 +44,7 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
+  color: #000;
 }
 
 .header__link {
@@ -95,23 +98,21 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  color: #000;
 }
 .two-columns__paragraph {
   margin: 0 0 30px 0;
 }
-.two-columns__paragraph_no_margin {
+
+.two-columns__paragraph:last-child {
   margin: 0;
-}
-.two-columns__paragraph-letters {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
 }
 
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
+  color: #000;
 }
 
 .digits {
@@ -128,6 +129,7 @@
   font-size: 60px;
   font-weight: 600;
   text-align: center;
+  color: #000;
 }
 
 .digits__subtitle {
@@ -137,6 +139,7 @@
   font-size: 24px;
   font-weight: normal;
   text-align: center;
+  color: #000;
 }
 
 .table {
@@ -158,12 +161,14 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
+  color: #000;
 }
 .table__text {
   margin: 20px 0 0 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  color: #000;
 }
 
 .feynman {
@@ -183,6 +188,7 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
+  color: #000;
 }
 
 .feynman__subtitle {
@@ -192,6 +198,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  color: #000;
 }
 
 .feynman__link {
@@ -351,6 +358,5 @@
   }
 .footer__social-icon {
   margin-right: 10px;
-
 }
 

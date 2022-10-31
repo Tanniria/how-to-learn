@@ -31,33 +31,32 @@
 .header__title {
   width: 100%;
   max-width: 730px;
+  margin: 0 0 0 64px;
+  align-self: center;
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
-  margin: 0;
-  align-self: center;
-  margin: 0 0 0 64px;
   color: #000;
 }
 
 .header__subtitle {
   width: 100%;
   max-width: 388px;
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: normal;
   margin: 0;
   position: absolute;
   bottom: 30px;
   left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
   color: #000;
 }
 
 .header__link {
+  text-decoration: none;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  text-decoration: none;
   color: #2f80ed;
 }
 
@@ -80,8 +79,8 @@
 }
 
 .description {
-  display: flex;
   margin: 0;
+  display: flex;
   justify-content: center;
 }
 

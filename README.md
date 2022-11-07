@@ -15,10 +15,10 @@
 * Вставлены видео с помощью контейнера [*iframe*](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies);  
 * Директива [*@keyframes*](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) для вызова анимации rotation через [transform](https://developer.mozilla.org/ru/docs/Web/CSS/transform);  
 * Плавное изменение прозрачности ссылок достигнуто благодаря [*transition*](https://developer.mozilla.org/ru/docs/Web/CSS/transition).
-Alt-H1
+
 ## **Планы по доработке проекта**
 * Добиться большей адаптивности сайта, в том числе через директиву [@media](https://developer.mozilla.org/ru/docs/Web/CSS/@media);  
 * Использовать больше [псевдоклассов](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes) для ссылок (active, focus, visited);
 * Создать форму для обратной связи;
-Alt-H1
+
 #### [**Смакова Татьяна**](https://vk.com/id221691656)

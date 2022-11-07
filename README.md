@@ -21,4 +21,4 @@
 * Использовать больше [псевдоклассов](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-classes) для ссылок (active, focus, visited);
 * Создать форму для обратной связи;
 
-#### [**Смакова Татьяна**](https://vk.com/id221691656)
+#### Проект выполнен [**Смаковой Татьяной**](https://vk.com/id221691656)
